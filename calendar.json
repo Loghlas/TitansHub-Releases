@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T00:00:00.000Z",
+  "updatedAt": "2026-11-18T23:09:06.116Z",
   "timezone": "UTC",
   "coverage": {
     "from": "2026-09-01",
-    "to": "2026-10-29"
+    "to": "2026-12-18"
   },
   "events": [
     {
@@ -6338,6 +6338,3291 @@
       "startsAt": "2026-10-17T15:00:00.000Z",
       "endsAt": "2026-10-19T15:00:00.000Z",
       "durationDays": 2
+    },
+    {
+      "id": "pdf:boss:avatar:2026-11-20:16:00",
+      "category": "boss",
+      "title": "Avatar",
+      "canonicalName": "Avatar",
+      "definitionId": "boss:avatar",
+      "allDay": false,
+      "startsAt": "2026-11-20T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:avatar:2026-11-27:16:00",
+      "category": "boss",
+      "title": "Avatar",
+      "canonicalName": "Avatar",
+      "definitionId": "boss:avatar",
+      "allDay": false,
+      "startsAt": "2026-11-27T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:avatar:2026-12-04:16:00",
+      "category": "boss",
+      "title": "Avatar",
+      "canonicalName": "Avatar",
+      "definitionId": "boss:avatar",
+      "allDay": false,
+      "startsAt": "2026-12-04T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:avatar:2026-12-11:16:00",
+      "category": "boss",
+      "title": "Avatar",
+      "canonicalName": "Avatar",
+      "definitionId": "boss:avatar",
+      "allDay": false,
+      "startsAt": "2026-12-11T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:avatar:2026-12-18:16:00",
+      "category": "boss",
+      "title": "Avatar",
+      "canonicalName": "Avatar",
+      "definitionId": "boss:avatar",
+      "allDay": false,
+      "startsAt": "2026-12-18T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-11-18:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-11-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-11-21:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-11-21T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-11-24:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-11-24T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-11-27:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-11-27T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-11-30:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-11-30T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-03:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-03T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-06:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-06T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-09:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-09T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-12:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-12T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-15:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-15T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:cyclops-lord:2026-12-18:20:00",
+      "category": "boss",
+      "title": "Cyclops Lord",
+      "canonicalName": "Cyclops Lord",
+      "definitionId": "boss:cyclops-lord",
+      "allDay": false,
+      "startsAt": "2026-12-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:elder-crushtacean:2026-11-19:00:00",
+      "category": "boss",
+      "title": "Elder Crushtacean",
+      "canonicalName": "Elder Crushtacean",
+      "definitionId": "boss:elder-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:elder-crushtacean:2026-11-26:00:00",
+      "category": "boss",
+      "title": "Elder Crushtacean",
+      "canonicalName": "Elder Crushtacean",
+      "definitionId": "boss:elder-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:elder-crushtacean:2026-12-03:00:00",
+      "category": "boss",
+      "title": "Elder Crushtacean",
+      "canonicalName": "Elder Crushtacean",
+      "definitionId": "boss:elder-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:elder-crushtacean:2026-12-10:00:00",
+      "category": "boss",
+      "title": "Elder Crushtacean",
+      "canonicalName": "Elder Crushtacean",
+      "definitionId": "boss:elder-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:elder-crushtacean:2026-12-17:00:00",
+      "category": "boss",
+      "title": "Elder Crushtacean",
+      "canonicalName": "Elder Crushtacean",
+      "definitionId": "boss:elder-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-12-17T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-19:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-19T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-21:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-21T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-23:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-23T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-25:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-25T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-27:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-27T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-11-29:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-11-29T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-01:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-01T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-03:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-03T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-05:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-05T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-07:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-07T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-09:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-09T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-11:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-11T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-13:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-13T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-15:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-15T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:greater-anubis:2026-12-17:04:00",
+      "category": "boss",
+      "title": "Greater Anubis",
+      "canonicalName": "Greater Anubis",
+      "definitionId": "boss:greater-anubis",
+      "allDay": false,
+      "startsAt": "2026-12-17T04:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-11-19:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-11-24:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-11-29:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-11-29T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-12-04:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-12-04T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-12-09:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-12-09T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:harpy-matriarch:2026-12-14:16:00",
+      "category": "boss",
+      "title": "Harpy Matriarch",
+      "canonicalName": "Harpy Matriarch",
+      "definitionId": "boss:harpy-matriarch",
+      "allDay": false,
+      "startsAt": "2026-12-14T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-11-18:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-11-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-11-23:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-11-23T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-11-28:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-11-28T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-12-03:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-12-03T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-12-08:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-12-08T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-12-13:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-12-13T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mermaid-queen:2026-12-18:20:00",
+      "category": "boss",
+      "title": "Mermaid Queen",
+      "canonicalName": "Mermaid Queen",
+      "definitionId": "boss:mermaid-queen",
+      "allDay": false,
+      "startsAt": "2026-12-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-18:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-18T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-19:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-19T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-20:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-20T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-21:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-21T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-22:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-22T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-23:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-23T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-24:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-24T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-25:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-25T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-26:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-26T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-27:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-27T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-28:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-28T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-29:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-29T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-11-30:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-11-30T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-01:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-01T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-02:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-02T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-03:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-03T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-04:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-04T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-05:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-05T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-06:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-06T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-07:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-07T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-08:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-08T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-09:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-09T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-10:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-10T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-11:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-11T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-12:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-12T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-13:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-13T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-14:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-14T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-15:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-15T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-16:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-16T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-17:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-17T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:mushgoon:2026-12-18:18:00",
+      "category": "boss",
+      "title": "Mushgoon",
+      "canonicalName": "Mushgoon",
+      "definitionId": "boss:mushgoon",
+      "allDay": false,
+      "startsAt": "2026-12-18T18:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-18:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-19:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-20:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-21:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-22:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-23:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-24:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-24T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-25:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-26:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-27:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-28:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-28T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-29:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-29T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-11-30:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-11-30T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-01:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-01T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-02:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-02T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-03:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-03T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-04:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-04T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-05:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-05T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-06:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-06T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-07:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-07T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-08:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-08T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-09:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-09T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-10:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-10T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-11:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-11T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-12:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-12T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-13:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-13T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-14:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-14T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-15:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-15T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-16:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-16T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-17:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-17T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:toadwitch:2026-12-18:12:00",
+      "category": "boss",
+      "title": "Toadwitch",
+      "canonicalName": "Toadwitch",
+      "definitionId": "boss:toadwitch",
+      "allDay": false,
+      "startsAt": "2026-12-18T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-18:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-19:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-20:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-21:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-21T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-22:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-22T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-23:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-24:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-25:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-26:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-27:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-28:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-29:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-29T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-11-30:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-11-30T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-01:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-02:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-02T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-03:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-04:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-04T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-05:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-05T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-06:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-06T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-07:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-07T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-08:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-08T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-09:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-09T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-10:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-11:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-11T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-12:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-12T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-13:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-13T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-14:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-14T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-15:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-15T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-16:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-16T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-17:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-17T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:troublin-chief:2026-12-18:00:00",
+      "category": "boss",
+      "title": "Troublin Chief",
+      "canonicalName": "Troublin Chief",
+      "definitionId": "boss:troublin-chief",
+      "allDay": false,
+      "startsAt": "2026-12-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrannosaurus-rex:2026-11-22:08:00",
+      "category": "boss",
+      "title": "Tyrannosaurus Rex",
+      "canonicalName": "Tyrannosaurus Rex",
+      "definitionId": "boss:tyrannosaurus-rex",
+      "allDay": false,
+      "startsAt": "2026-11-22T08:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrannosaurus-rex:2026-11-29:08:00",
+      "category": "boss",
+      "title": "Tyrannosaurus Rex",
+      "canonicalName": "Tyrannosaurus Rex",
+      "definitionId": "boss:tyrannosaurus-rex",
+      "allDay": false,
+      "startsAt": "2026-11-29T08:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrannosaurus-rex:2026-12-06:08:00",
+      "category": "boss",
+      "title": "Tyrannosaurus Rex",
+      "canonicalName": "Tyrannosaurus Rex",
+      "definitionId": "boss:tyrannosaurus-rex",
+      "allDay": false,
+      "startsAt": "2026-12-06T08:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrannosaurus-rex:2026-12-13:08:00",
+      "category": "boss",
+      "title": "Tyrannosaurus Rex",
+      "canonicalName": "Tyrannosaurus Rex",
+      "definitionId": "boss:tyrannosaurus-rex",
+      "allDay": false,
+      "startsAt": "2026-12-13T08:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-11-18:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-11-23:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-11-28:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-12-03:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-12-08:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-12-08T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-12-13:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-12-13T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:tyrant-king:2026-12-18:00:00",
+      "category": "boss",
+      "title": "Tyrant King",
+      "canonicalName": "Tyrant King",
+      "definitionId": "boss:tyrant-king",
+      "allDay": false,
+      "startsAt": "2026-12-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:void-creature:2026-11-19:20:00",
+      "category": "boss",
+      "title": "Void Creature",
+      "canonicalName": "Void Creature",
+      "definitionId": "boss:void-creature",
+      "allDay": false,
+      "startsAt": "2026-11-19T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:void-creature:2026-11-26:20:00",
+      "category": "boss",
+      "title": "Void Creature",
+      "canonicalName": "Void Creature",
+      "definitionId": "boss:void-creature",
+      "allDay": false,
+      "startsAt": "2026-11-26T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:void-creature:2026-12-03:20:00",
+      "category": "boss",
+      "title": "Void Creature",
+      "canonicalName": "Void Creature",
+      "definitionId": "boss:void-creature",
+      "allDay": false,
+      "startsAt": "2026-12-03T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:void-creature:2026-12-10:20:00",
+      "category": "boss",
+      "title": "Void Creature",
+      "canonicalName": "Void Creature",
+      "definitionId": "boss:void-creature",
+      "allDay": false,
+      "startsAt": "2026-12-10T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:void-creature:2026-12-17:20:00",
+      "category": "boss",
+      "title": "Void Creature",
+      "canonicalName": "Void Creature",
+      "definitionId": "boss:void-creature",
+      "allDay": false,
+      "startsAt": "2026-12-17T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-18:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-19:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-20:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-21:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-21T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-22:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-22T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-23:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-23T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-24:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-24T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-25:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-25T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-26:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-26T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-27:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-27T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-28:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-28T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-29:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-29T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-11-30:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-11-30T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-01:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-01T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-02:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-02T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-03:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-03T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-04:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-04T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-05:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-05T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-06:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-06T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-07:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-07T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-08:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-08T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-09:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-09T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-10:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-10T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-11:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-11T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-12:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-12T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-13:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-13T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-14:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-14T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-15:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-15T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-16:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-16T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-17:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-17T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:boss:yeti-king:2026-12-18:06:00",
+      "category": "boss",
+      "title": "Yeti King",
+      "canonicalName": "Yeti King",
+      "definitionId": "boss:yeti-king",
+      "allDay": false,
+      "startsAt": "2026-12-18T06:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-19:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-21:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-23:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-25:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-27:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-27T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-11-29:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-11-29T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-01:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-01T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-03:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-03T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-05:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-05T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-07:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-07T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-09:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-09T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-11:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-11T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-13:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-13T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-15:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-15T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:argon:2026-12-17:12:00",
+      "category": "champion",
+      "title": "Argon",
+      "canonicalName": "Argon",
+      "definitionId": "champion:argon",
+      "allDay": false,
+      "startsAt": "2026-12-17T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-11-18:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-11-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-11-21:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-11-21T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-11-24:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-11-24T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-11-27:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-11-27T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-11-30:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-11-30T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-03:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-03T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-06:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-06T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-09:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-09T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-12:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-12T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-15:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-15T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:ashley:2026-12-18:20:00",
+      "category": "champion",
+      "title": "Ashley",
+      "canonicalName": "Ashley",
+      "definitionId": "champion:ashley",
+      "allDay": false,
+      "startsAt": "2026-12-18T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-11-20:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-11-23:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-11-26:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-11-29:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-11-29T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-02:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-02T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-05:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-05T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-08:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-08T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-11:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-11T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-14:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-14T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:bjorn:2026-12-17:00:00",
+      "category": "champion",
+      "title": "Bjorn",
+      "canonicalName": "Bjorn",
+      "definitionId": "champion:bjorn",
+      "allDay": false,
+      "startsAt": "2026-12-17T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-11-19:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-11-22:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-11-22T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-11-25:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-11-25T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-11-28:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-11-28T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-01:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-01T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-04:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-04T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-07:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-07T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-10:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-10T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-13:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-13T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:donovan:2026-12-16:16:00",
+      "category": "champion",
+      "title": "Donovan",
+      "canonicalName": "Donovan",
+      "definitionId": "champion:donovan",
+      "allDay": false,
+      "startsAt": "2026-12-16T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-11-18:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-11-21:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-11-21T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-11-24:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-11-27:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-11-30:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-11-30T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-03:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-06:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-06T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-09:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-09T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-12:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-12T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-15:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-15T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:hemma:2026-12-18:00:00",
+      "category": "champion",
+      "title": "Hemma",
+      "canonicalName": "Hemma",
+      "definitionId": "champion:hemma",
+      "allDay": false,
+      "startsAt": "2026-12-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-18:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-20:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-22:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-24:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-24T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-26:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-26T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-28:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-28T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-11-30:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-11-30T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-02:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-02T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-04:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-04T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-06:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-06T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-08:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-08T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-10:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-10T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-12:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-12T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-14:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-14T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-16:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-16T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:lilu:2026-12-18:12:00",
+      "category": "champion",
+      "title": "Lilu",
+      "canonicalName": "Lilu",
+      "definitionId": "champion:lilu",
+      "allDay": false,
+      "startsAt": "2026-12-18T12:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-11-20:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-11-20T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-11-23:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-11-23T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-11-26:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-11-26T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-11-29:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-11-29T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-02:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-02T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-05:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-05T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-08:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-08T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-11:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-11T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-14:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-14T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:malady:2026-12-17:20:00",
+      "category": "champion",
+      "title": "Malady",
+      "canonicalName": "Malady",
+      "definitionId": "champion:malady",
+      "allDay": false,
+      "startsAt": "2026-12-17T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-11-18:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-11-21:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-11-21T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-11-24:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-11-27:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-11-30:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-11-30T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-03:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-06:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-06T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-09:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-09T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-12:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-12T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-15:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-15T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:polonia:2026-12-18:00:00",
+      "category": "champion",
+      "title": "Polonia",
+      "canonicalName": "Polonia",
+      "definitionId": "champion:polonia",
+      "allDay": false,
+      "startsAt": "2026-12-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-19:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-19T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-21:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-21T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-23:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-23T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-25:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-27:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-27T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-11-29:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-11-29T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-01:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-01T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-03:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-03T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-05:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-05T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-07:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-07T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-09:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-09T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-11:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-11T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-13:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-13T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-15:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-15T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:rudo:2026-12-17:20:00",
+      "category": "champion",
+      "title": "Rudo",
+      "canonicalName": "Rudo",
+      "definitionId": "champion:rudo",
+      "allDay": false,
+      "startsAt": "2026-12-17T20:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-19:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-21:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-23:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-23T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-25:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-25T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-27:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-27T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-11-29:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-11-29T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-01:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-01T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-03:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-03T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-05:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-05T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-07:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-07T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-09:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-09T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-11:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-11T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-13:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-13T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-15:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-15T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:sia:2026-12-17:16:00",
+      "category": "champion",
+      "title": "Sia",
+      "canonicalName": "Sia",
+      "definitionId": "champion:sia",
+      "allDay": false,
+      "startsAt": "2026-12-17T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-18:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-18T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-20:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-20T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-22:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-22T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-24:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-26:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-28:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-28T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-11-30:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-11-30T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-02:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-02T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-04:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-04T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-06:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-06T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-08:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-08T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-10:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-10T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-12:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-12T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-14:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-14T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-16:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-16T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:champion:yami:2026-12-18:16:00",
+      "category": "champion",
+      "title": "Yami",
+      "canonicalName": "Yami",
+      "definitionId": "champion:yami",
+      "allDay": false,
+      "startsAt": "2026-12-18T16:00:00.000Z"
+    },
+    {
+      "id": "pdf:dragon-invasion:dragon-invasion:2026-11-19:15:00",
+      "category": "dragon-invasion",
+      "title": "Dragon Invasion",
+      "canonicalName": "Dragon Invasion",
+      "definitionId": "dragon-invasion:dragon-invasion",
+      "allDay": false,
+      "startsAt": "2026-11-19T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:dragon-invasion:dragon-invasion:2026-12-17:15:00",
+      "category": "dragon-invasion",
+      "title": "Dragon Invasion",
+      "canonicalName": "Dragon Invasion",
+      "definitionId": "dragon-invasion:dragon-invasion",
+      "allDay": false,
+      "startsAt": "2026-12-17T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:ancient-crushtacean:2026-11-22:15:00",
+      "category": "flash-quest",
+      "title": "Ancient Crushtacean",
+      "canonicalName": "Ancient Crushtacean",
+      "definitionId": "flash-quest:ancient-crushtacean",
+      "allDay": false,
+      "startsAt": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:anubis-champion:2026-11-28:15:00",
+      "category": "flash-quest",
+      "title": "Anubis Champion",
+      "canonicalName": "Anubis Champion",
+      "definitionId": "flash-quest:anubis-champion",
+      "allDay": false,
+      "startsAt": "2026-11-28T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:cyclops-general:2026-11-26:15:00",
+      "category": "flash-quest",
+      "title": "Cyclops General",
+      "canonicalName": "Cyclops General",
+      "definitionId": "flash-quest:cyclops-general",
+      "allDay": false,
+      "startsAt": "2026-11-26T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:cyclops-merchant:2026-12-12:15:00",
+      "category": "flash-quest",
+      "title": "Cyclops Merchant",
+      "canonicalName": "Cyclops Merchant",
+      "definitionId": "flash-quest:cyclops-merchant",
+      "allDay": false,
+      "startsAt": "2026-12-12T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:gold-golem:2026-12-02:15:00",
+      "category": "flash-quest",
+      "title": "Gold Golem",
+      "canonicalName": "Gold Golem",
+      "definitionId": "flash-quest:gold-golem",
+      "allDay": false,
+      "startsAt": "2026-12-02T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:moonstone-golem:2026-12-10:15:00",
+      "category": "flash-quest",
+      "title": "Moonstone Golem",
+      "canonicalName": "Moonstone Golem",
+      "definitionId": "flash-quest:moonstone-golem",
+      "allDay": false,
+      "startsAt": "2026-12-10T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:mushgoon-graverobber:2026-11-24:15:00",
+      "category": "flash-quest",
+      "title": "Mushgoon Graverobber",
+      "canonicalName": "Mushgoon Graverobber",
+      "definitionId": "flash-quest:mushgoon-graverobber",
+      "allDay": false,
+      "startsAt": "2026-11-24T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:runestone-golem:2026-12-16:15:00",
+      "category": "flash-quest",
+      "title": "Runestone Golem",
+      "canonicalName": "Runestone Golem",
+      "definitionId": "flash-quest:runestone-golem",
+      "allDay": false,
+      "startsAt": "2026-12-16T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:scholarly-harpy:2026-12-14:15:00",
+      "category": "flash-quest",
+      "title": "Scholarly Harpy",
+      "canonicalName": "Scholarly Harpy",
+      "definitionId": "flash-quest:scholarly-harpy",
+      "allDay": false,
+      "startsAt": "2026-12-14T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:sigil-ninja:2026-12-06:15:00",
+      "category": "flash-quest",
+      "title": "Sigil Ninja",
+      "canonicalName": "Sigil Ninja",
+      "definitionId": "flash-quest:sigil-ninja",
+      "allDay": false,
+      "startsAt": "2026-12-06T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:toad-sage:2026-12-04:15:00",
+      "category": "flash-quest",
+      "title": "Toad Sage",
+      "canonicalName": "Toad Sage",
+      "definitionId": "flash-quest:toad-sage",
+      "allDay": false,
+      "startsAt": "2026-12-04T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:training-instructor:2026-12-08:15:00",
+      "category": "flash-quest",
+      "title": "Training Instructor",
+      "canonicalName": "Training Instructor",
+      "definitionId": "flash-quest:training-instructor",
+      "allDay": false,
+      "startsAt": "2026-12-08T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:troublin-blacksmith:2026-11-18:15:00",
+      "category": "flash-quest",
+      "title": "Troublin Blacksmith",
+      "canonicalName": "Troublin Blacksmith",
+      "definitionId": "flash-quest:troublin-blacksmith",
+      "allDay": false,
+      "startsAt": "2026-11-18T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:troublin-blacksmith:2026-12-18:15:00",
+      "category": "flash-quest",
+      "title": "Troublin Blacksmith",
+      "canonicalName": "Troublin Blacksmith",
+      "definitionId": "flash-quest:troublin-blacksmith",
+      "allDay": false,
+      "startsAt": "2026-12-18T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:flash-quest:troublin-pirate:2026-11-20:15:00",
+      "category": "flash-quest",
+      "title": "Troublin Pirate",
+      "canonicalName": "Troublin Pirate",
+      "definitionId": "flash-quest:troublin-pirate",
+      "allDay": false,
+      "startsAt": "2026-11-20T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:full-moon:full-moon:2026-11-24",
+      "category": "full-moon",
+      "title": "Full Moon",
+      "canonicalName": "Full Moon",
+      "definitionId": "full-moon:full-moon",
+      "allDay": true,
+      "date": "2026-11-24"
+    },
+    {
+      "id": "pdf:guest-champion:reinhold:2026-11-18:00:00",
+      "category": "guest-champion",
+      "title": "Reinhold",
+      "canonicalName": "Reinhold",
+      "definitionId": "guest-champion:reinhold",
+      "allDay": false,
+      "startsAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:guest-champion:reinhold:2026-12-14:00:00",
+      "category": "guest-champion",
+      "title": "Reinhold",
+      "canonicalName": "Reinhold",
+      "definitionId": "guest-champion:reinhold",
+      "allDay": false,
+      "startsAt": "2026-12-14T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:guest-champion:reinhold:2026-12-15:00:00",
+      "category": "guest-champion",
+      "title": "Reinhold",
+      "canonicalName": "Reinhold",
+      "definitionId": "guest-champion:reinhold",
+      "allDay": false,
+      "startsAt": "2026-12-15T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:guest-champion:reinhold:2026-12-16:00:00",
+      "category": "guest-champion",
+      "title": "Reinhold",
+      "canonicalName": "Reinhold",
+      "definitionId": "guest-champion:reinhold",
+      "allDay": false,
+      "startsAt": "2026-12-16T00:00:00.000Z"
+    },
+    {
+      "id": "pdf:kings-caprice:king-s-caprice:2026-12-03:15:00",
+      "category": "kings-caprice",
+      "title": "King's Caprice",
+      "canonicalName": "King's Caprice",
+      "definitionId": "kings-caprice:king-s-caprice",
+      "allDay": false,
+      "startsAt": "2026-12-03T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:lost-city-of-gold:lost-city-of-gold:2026-11-27:15:00",
+      "category": "lost-city-of-gold",
+      "title": "Lost City of Gold",
+      "canonicalName": "Lost City of Gold",
+      "definitionId": "lost-city-of-gold:lost-city-of-gold",
+      "allDay": false,
+      "startsAt": "2026-11-27T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-11-18:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-11-18T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-11-19T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-11-24:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-11-24T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-11-25T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-11-26:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-11-26T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-11-27T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-12-01:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-01T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-12-02T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-12-02:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-02T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-12-03T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-12-10:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-10T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-12-11T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-12-15:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-15T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-12-16T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-12-16:15:00",
+      "category": "modifier-24-hour",
+      "title": "24 Hour Modifier Event",
+      "canonicalName": "24 Hour Modifier Event",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-16T15:00:00.000Z",
+      "durationDays": 1,
+      "endsAt": "2026-12-17T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:modifier-48-hour:48-hour-modifier-event:2026-12-12:15:00",
+      "category": "modifier-48-hour",
+      "title": "48 Hour Modifier Event",
+      "canonicalName": "48 Hour Modifier Event",
+      "definitionId": "modifier-48-hour:48-hour-modifier-event",
+      "allDay": false,
+      "startsAt": "2026-12-12T15:00:00.000Z",
+      "durationDays": 2,
+      "endsAt": "2026-12-14T15:00:00.000Z"
+    },
+    {
+      "id": "pdf:tower-of-titans:tower-of-titans:2026-12-02:15:00",
+      "category": "tower-of-titans",
+      "title": "Tower Of Titans",
+      "canonicalName": "Tower Of Titans",
+      "definitionId": "tower-of-titans:tower-of-titans",
+      "allDay": false,
+      "startsAt": "2026-12-02T15:00:00.000Z"
     },
     {
       "id": "tower-of-titans:2026-09-10T15:00:00.000Z:tower-of-titans",
