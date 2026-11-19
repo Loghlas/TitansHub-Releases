@@ -10,7 +10,7 @@ import {verifyAnchoredHistory} from './official.mjs';
 import {downloadPdf,githubClient,loadBase} from './network.mjs';
 import {calendarRemoteDatasetSchema} from '../calendar-schema.mjs';
 
-// No publishing implementation, dispatch input, write client or activation variable exists.
+// This entry point is always read-only; publishing lives in a separately gated job.
 const {values}=parseArgs({options:{mode:{type:'string',default:'simulate'},out:{type:'string',default:'review'},pdf:{type:'string'},'base-snapshot':{type:'string'},python:{type:'string',default:process.env.CALENDAR_PDF_PYTHON??'python'}}});
 if(values.mode!=='simulate')throw Error('Only simulation is installed. Publication is disabled.');
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');

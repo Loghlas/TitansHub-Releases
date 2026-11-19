@@ -1,17 +1,30 @@
-name: Shop Titans calendar simulation
-
+name: Shop Titans calendar
 on:
   schedule:
     - cron: '17 5 * * 1'
   workflow_dispatch:
-
-permissions:
-  contents: read
-
+    inputs:
+      mode:
+        description: Simulate or publish an explicitly reviewed successful simulation
+        type: choice
+        options: [simulate, publish-reviewed]
+        default: simulate
+      confirm_publication:
+        description: Authorize publishing the exact reviewed calendar and ledger
+        type: boolean
+        default: false
+      review_run_id:
+        description: Successful simulation run ID from this exact workflow commit
+        type: string
+        default: ''
+      approved_sha256:
+        description: Exact calendar candidate SHA-256 from that successful simulation
+        type: string
+        default: ''
+permissions: {}
 concurrency:
   group: shop-titans-calendar-simulation
   cancel-in-progress: false
-
 jobs:
   simulate:
     if: github.repository == 'Loghlas/TitansHub-Releases' && github.ref == 'refs/heads/main'
@@ -19,6 +32,11 @@ jobs:
     timeout-minutes: 20
     permissions:
       contents: read
+      actions: read
+    outputs:
+      valid: ${{ steps.verify.outputs.valid }}
+      changed: ${{ steps.verify.outputs.changed }}
+      automatic_allowed: ${{ steps.verify.outputs.automatic_allowed }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -29,25 +47,47 @@ jobs:
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
           python-version: '3.12'
-      - name: Install locked Node dependencies
-        run: npm ci --prefix tools/calendar --ignore-scripts --no-audit --no-fund
-      - name: Install locked Python dependencies
-        run: 'python -m pip install --require-hashes --only-binary=:all: -r tools/calendar/calendar_pdf/requirements.txt'
-      - name: Test calendar and official assertions
-        run: npm test --prefix tools/calendar
-      - name: Test graphical PDF extraction
-        run: python -m unittest discover -s tools/calendar/calendar_pdf -p 'test_*.py' -v
-      - name: Download PDF and simulate merge (publication disabled)
+      - name: Install locked dependencies
+        run: |
+          npm ci --prefix tools/calendar --ignore-scripts --no-audit --no-fund
+          python -m pip install --require-hashes --only-binary=:all: -r tools/calendar/calendar_pdf/requirements.txt
+      - name: Test validation, publication mocks and extraction
+        run: |
+          npm test --prefix tools/calendar
+          python -m unittest discover -s tools/calendar/calendar_pdf -p 'test_*.py' -v
+      - name: Download PDF and simulate (no calendar writes)
+        if: github.event_name != 'workflow_dispatch' || inputs.mode != 'publish-reviewed'
         run: node tools/calendar/automation/simulate.mjs --out review
         env:
           GITHUB_TOKEN: ${{ github.token }}
-      - name: Record failure before simulation
+      - name: Validate reviewed simulation origin and confirmation
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'publish-reviewed'
+        run: node tools/calendar/automation/review-cli.mjs --origin
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          REVIEW_RUN_ID: ${{ inputs.review_run_id }}
+          CONFIRM_PUBLICATION: ${{ inputs.confirm_publication }}
+          APPROVED_SHA256: ${{ inputs.approved_sha256 }}
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'publish-reviewed'
+        with:
+          name: calendar-simulation-review
+          path: review
+          run-id: ${{ inputs.review_run_id }}
+          github-token: ${{ github.token }}
+          repository: Loghlas/TitansHub-Releases
+      - name: Independently rebuild and validate both candidates
+        id: verify
+        run: node tools/calendar/automation/review-cli.mjs --out review
+        env:
+          REVIEW_MODE: ${{ inputs.mode }}
+          APPROVED_SHA256: ${{ inputs.approved_sha256 }}
+      - name: Record failure before publication
         if: failure()
-        shell: bash
         run: |
           mkdir -p review
-          test -f review/failure.json || printf '%s\n' '{"status":"refused","publication":"DISABLED","message":"A workflow step failed; inspect its log."}' > review/failure.json
-          printf '\nPublication: **DÉSACTIVÉE — simulation only**\n' >> "$GITHUB_STEP_SUMMARY"
+          test -f review/failure.json || printf '%s\n' '{"status":"refused","message":"Simulation or independent validation failed. No publication job is allowed."}' > review/failure.json
+          printf '\nPublication: **DISABLED / REFUSED**\n' >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always()
         with:
@@ -55,5 +95,45 @@ jobs:
           path: |
             review/*.json
             review/*.md
+          retention-days: 14
+          if-no-files-found: error
+  publish:
+    needs: simulate
+    if: >-
+      needs.simulate.result == 'success' &&
+      needs.simulate.outputs.valid == 'true' &&
+      needs.simulate.outputs.changed == 'true' &&
+      ((github.event_name == 'workflow_dispatch' && inputs.mode == 'publish-reviewed' && inputs.confirm_publication == true) ||
+      (github.event_name == 'schedule' && needs.simulate.outputs.automatic_allowed == 'true' && vars.CALENDAR_AUTO_PUBLISH == 'true'))
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - run: npm ci --prefix tools/calendar --ignore-scripts --no-audit --no-fund
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: calendar-simulation-review
+          path: review
+      - name: Validate again and publish exactly two files atomically
+        run: node tools/calendar/automation/publish.mjs --out review
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          REVIEW_MODE: ${{ inputs.mode }}
+          CONFIRM_PUBLICATION: ${{ inputs.confirm_publication }}
+          APPROVED_SHA256: ${{ inputs.approved_sha256 }}
+          CALENDAR_AUTO_PUBLISH: ${{ vars.CALENDAR_AUTO_PUBLISH }}
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: calendar-publication-result
+          path: review/publication.json
           retention-days: 14
           if-no-files-found: error

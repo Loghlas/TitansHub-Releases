@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "mode": "simulation-only",
+  "mode": "controlled-publication-automatic-disabled",
   "files": {
-    ".github/workflows/calendar-update.yml": "923f5808fb7b517d89a3f42ce045ebe1f25a62e088250bd5db8b65a8405d43a7",
+    ".github/workflows/calendar-update.yml": "02a9838ad61ffd706e1f8d8553ee4056f4510bf47b4ecf801476a32b1dd8f1da",
     "tools/calendar/automation/core.mjs": "079d415aae293a01c519303452f369bd5a7a65ca528f29a26373922c40c84d4d",
     "tools/calendar/automation/network.mjs": "7086808d3f7e435f8d8ef6e2068bcc773ef49b186aac8e28ff19152366fbb012",
     "tools/calendar/automation/official-assertions.mjs": "c641055d6096a4203365485a899eb06c8896a9974f346042b928a09657fa9c73",
@@ -10,7 +10,13 @@
     "tools/calendar/automation/official.mjs": "8a96d7949da0c0eb954fb408275f890dc90bc570ac76aab0df6586f405d5e63f",
     "tools/calendar/automation/official.test.mjs": "19e45a703a41c81d6886350ca9b93f7c05feff376a6dde889debe2c246e52110",
     "tools/calendar/automation/policy.json": "25e84719bfa5521ce055e95c4cd83dfbca8ee2adb34cbe8b4c351034d72d3bd4",
-    "tools/calendar/automation/simulate.mjs": "e73827f76aed168dd173f59eec989b5ef1425d50d74b4f02aa8895ec1643a6e9",
+    "tools/calendar/automation/publication-policy.json": "1dfef4d7ef5da8e3099ade20876193984e87340c5e73429eb9f0a5626ef1eb33",
+    "tools/calendar/automation/publish.mjs": "e3262d153af98e8bf7a4ce24220e68f023183398ff87398a995efd9ca949a067",
+    "tools/calendar/automation/publisher.mjs": "030c81c4e49ad45f78c7393a4e8c375a47ecb33e7135809632f0ec9f160b1520",
+    "tools/calendar/automation/publisher.test.mjs": "515597553998bfb52d1ee6730ce7806b10c7961df42f77f1464f6de2cc1398f1",
+    "tools/calendar/automation/review-cli.mjs": "c3d510405aea81d06b1b4e18ab42f3595b9445dfa2d029fe6bb69c334da5b5ee",
+    "tools/calendar/automation/review.mjs": "45c30f4d39063dc3185fff49e19c92f3a62dd977e775ddb70373372a34df3367",
+    "tools/calendar/automation/simulate.mjs": "99794f9027d3bb360045a502a80e69316af3840b369f77dab7ba7fbd84dc185f",
     "tools/calendar/automation/simulation.test.mjs": "85b9f876972b919e381c61799c62115681b695ca2029e43d2689e61423d928b2",
     "tools/calendar/automation/test.mjs": "0383e629fe0892430e9467a4ce72f450146e16b10867a6f817ab7ba8610f3503",
     "tools/calendar/calendar-pdf-candidate.mjs": "8080f9027b26e689aff83c4318ec5f9b57789889fc33b74c5e3c1867d6295db2",
@@ -21,7 +27,7 @@
     "tools/calendar/calendar_pdf/test_extract.py": "67d53217b59e10cf8ad6294bb852c40898500bfa5be77dfe934c6a9b2b0d20ad",
     "tools/calendar/date-validation.mjs": "9764d5fbfcc72fce1d645d76c3358116c3d25858ed8ac3b49eb6646b7e63d8db",
     "tools/calendar/package-lock.json": "b7e6a7ca9bf32a75688277818e736323b1e27500612228d1cb2853ed51a6b300",
-    "tools/calendar/package.json": "c27cba97bffc9780ef5242c446c90c2c4003c6a50c64e70b0841cd4f39fb5300",
-    "tools/calendar/README.md": "74514baeddc00f4613c76593f353ddc5d5f7de67426322c046e608d25b5482fd"
+    "tools/calendar/package.json": "f1b4bc4c027fb54246c75dc9d4672b4d3d6f536c14d9ee97cd443d653ec51161",
+    "tools/calendar/README.md": "d7741fcbd34f5c8b8f0a4c3da4ca3784181e4d31b799eb565291bd4f924881ac"
   }
 }
