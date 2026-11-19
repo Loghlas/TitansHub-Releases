@@ -32,7 +32,7 @@ jobs:
       - name: Install locked Node dependencies
         run: npm ci --prefix tools/calendar --ignore-scripts --no-audit --no-fund
       - name: Install locked Python dependencies
-        run: python -m pip install --require-hashes --only-binary=:all: -r tools/calendar/calendar_pdf/requirements.txt
+        run: 'python -m pip install --require-hashes --only-binary=:all: -r tools/calendar/calendar_pdf/requirements.txt'
       - name: Test calendar and official assertions
         run: npm test --prefix tools/calendar
       - name: Test graphical PDF extraction

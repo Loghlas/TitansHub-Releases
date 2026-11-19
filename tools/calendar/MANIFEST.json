@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "mode": "simulation-only",
   "files": {
-    ".github/workflows/calendar-update.yml": "4a9c61acfc40920ebf32a6282dd3b4feeafe20447e80e974e51468dbcd72d7a3",
+    ".github/workflows/calendar-update.yml": "923f5808fb7b517d89a3f42ce045ebe1f25a62e088250bd5db8b65a8405d43a7",
     "tools/calendar/automation/core.mjs": "079d415aae293a01c519303452f369bd5a7a65ca528f29a26373922c40c84d4d",
     "tools/calendar/automation/network.mjs": "7086808d3f7e435f8d8ef6e2068bcc773ef49b186aac8e28ff19152366fbb012",
     "tools/calendar/automation/official-assertions.mjs": "c641055d6096a4203365485a899eb06c8896a9974f346042b928a09657fa9c73",
