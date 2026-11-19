@@ -14,5 +14,241 @@
     "before": "2026-11-18",
     "count": 702,
     "sha256": "3730a08f032c133f0eb204a026043c1f249d332867993687809bfc512b5bf6d6"
+  },
+  "officialSchedule": {
+    "schemaVersion": 2,
+    "sourceUrl": "https://playshoptitans.com/fr/news/version-26-11-0-release-notes",
+    "manifestSha256": "299f4ff057ca985360d8bc68bc8614e6a6f138fc5077f3df72be4dfabb3ba582",
+    "manifest": {
+      "schemaVersion": 2,
+      "sourceUrl": "https://playshoptitans.com/fr/news/version-26-11-0-release-notes",
+      "publishedDate": "2026-10-30",
+      "release": "26.11.0",
+      "precision": "date",
+      "timezone": null,
+      "reviewedAt": "2026-11-19T10:34:19.000Z",
+      "identitySourceUrl": "https://playshoptitans.com/it/news/version-10-2-0-release-notes",
+      "events": [
+        {
+          "key": "pharoway-caravan",
+          "canonicalName": "Pharoway Caravan",
+          "category": "unknown",
+          "definitionId": "unknown:pharoway-caravan",
+          "date": "2026-11-05",
+          "durationDays": 5,
+          "section": "Event Schedule"
+        },
+        {
+          "key": "tower-of-titans",
+          "canonicalName": "Tower of Titans",
+          "category": "tower-of-titans",
+          "definitionId": "tower-of-titans:tower-of-titans",
+          "date": "2026-11-05",
+          "durationDays": 26,
+          "section": "Event Schedule"
+        },
+        {
+          "key": "king-guest-champion",
+          "canonicalName": "Reinhold",
+          "category": "guest-champion",
+          "definitionId": "guest-champion:reinhold",
+          "date": "2026-11-09",
+          "announcedUntilDate": "2026-11-12",
+          "endBoundary": "unspecified",
+          "section": "King Schedule",
+          "supersedes": [
+            {
+              "definitionId": "guest-champion:reinhold",
+              "date": "2026-11-18"
+            }
+          ],
+          "timing": "date-only"
+        },
+        {
+          "key": "kings-caprice",
+          "canonicalName": "King's Caprice",
+          "category": "kings-caprice",
+          "definitionId": "kings-caprice:kings-caprice",
+          "date": "2026-11-11",
+          "durationDays": 7,
+          "section": "Event Schedule"
+        },
+        {
+          "key": "dragon-invasion",
+          "canonicalName": "Dragon Invasion",
+          "category": "dragon-invasion",
+          "definitionId": "dragon-invasion:dragon-invasion",
+          "date": "2026-11-20",
+          "durationDays": 5,
+          "section": "Event Schedule",
+          "supersedes": [
+            {
+              "definitionId": "dragon-invasion:dragon-invasion",
+              "date": "2026-11-19"
+            }
+          ],
+          "timing": "date-only"
+        },
+        {
+          "key": "lost-city-of-gold",
+          "canonicalName": "Lost City of Gold",
+          "category": "lost-city-of-gold",
+          "definitionId": "lost-city-of-gold:lost-city-of-gold",
+          "date": "2026-11-27",
+          "durationDays": 4,
+          "section": "Event Schedule"
+        }
+      ],
+      "supersedesManifestSha256": "455dd3965c3a806c5fe410986b9eda0fc615cc4d3de0548be8121364af47cab8"
+    },
+    "firstReviewedAt": "2026-11-18T23:54:49.000Z",
+    "precision": "date",
+    "timezone": null,
+    "coverageSemantics": "sparse-assertions-only",
+    "assertions": [
+      {
+        "key": "pharoway-caravan",
+        "canonicalName": "Pharoway Caravan",
+        "category": "unknown",
+        "definitionId": "unknown:pharoway-caravan",
+        "date": "2026-11-05",
+        "durationDays": 5,
+        "section": "Event Schedule"
+      },
+      {
+        "key": "tower-of-titans",
+        "canonicalName": "Tower of Titans",
+        "category": "tower-of-titans",
+        "definitionId": "tower-of-titans:tower-of-titans",
+        "date": "2026-11-05",
+        "durationDays": 26,
+        "section": "Event Schedule"
+      },
+      {
+        "key": "king-guest-champion",
+        "canonicalName": "Reinhold",
+        "category": "guest-champion",
+        "definitionId": "guest-champion:reinhold",
+        "date": "2026-11-09",
+        "announcedUntilDate": "2026-11-12",
+        "endBoundary": "unspecified",
+        "section": "King Schedule",
+        "supersedes": [
+          {
+            "definitionId": "guest-champion:reinhold",
+            "date": "2026-11-18"
+          }
+        ],
+        "timing": "date-only"
+      },
+      {
+        "key": "kings-caprice",
+        "canonicalName": "King's Caprice",
+        "category": "kings-caprice",
+        "definitionId": "kings-caprice:kings-caprice",
+        "date": "2026-11-11",
+        "durationDays": 7,
+        "section": "Event Schedule"
+      },
+      {
+        "key": "dragon-invasion",
+        "canonicalName": "Dragon Invasion",
+        "category": "dragon-invasion",
+        "definitionId": "dragon-invasion:dragon-invasion",
+        "date": "2026-11-20",
+        "durationDays": 5,
+        "section": "Event Schedule",
+        "supersedes": [
+          {
+            "definitionId": "dragon-invasion:dragon-invasion",
+            "date": "2026-11-19"
+          }
+        ],
+        "timing": "date-only"
+      },
+      {
+        "key": "lost-city-of-gold",
+        "canonicalName": "Lost City of Gold",
+        "category": "lost-city-of-gold",
+        "definitionId": "lost-city-of-gold:lost-city-of-gold",
+        "date": "2026-11-27",
+        "durationDays": 4,
+        "section": "Event Schedule"
+      }
+    ],
+    "backfillIds": [
+      "official:kings-caprice:2026-11-11",
+      "official:pharoway-caravan:2026-11-05",
+      "official:tower-of-titans:2026-11-05",
+      "pdf:guest-champion:reinhold:2026-11-18:00:00"
+    ],
+    "eventBindings": [
+      {
+        "id": "official:kings-caprice:2026-11-11",
+        "sha256": "fc9c695e09cf477fb58121457e32adc316cc5aff5369028cfd0ce35a759ce1ff"
+      },
+      {
+        "id": "official:pharoway-caravan:2026-11-05",
+        "sha256": "9f89dfe79ae40cfbd367ad5975fffc18575b631794640c14cdff9bf5e1a853dd"
+      },
+      {
+        "id": "official:tower-of-titans:2026-11-05",
+        "sha256": "8ac3e11473b32f89cc54c228a6f379ff67624bacf149bcf1e2a45521cacc15b8"
+      },
+      {
+        "id": "pdf:dragon-invasion:dragon-invasion:2026-11-19:15:00",
+        "sha256": "d575341ff006e4edc02a9f4025cf2feb257a276a9ca0eb0ef0542fc98ba8ca29"
+      },
+      {
+        "id": "pdf:guest-champion:reinhold:2026-11-18:00:00",
+        "sha256": "9e1fe609db15664b383e39b7395d9d2f0f4617415076829e5928d62668cd23aa"
+      },
+      {
+        "id": "pdf:lost-city-of-gold:lost-city-of-gold:2026-11-27:15:00",
+        "sha256": "cee2d7f657ef5f6b6593125dc7065d32e2d9d95df37d845a77e1b540dde26d5d"
+      }
+    ],
+    "excludedPredictions": [
+      {
+        "prediction": {
+          "id": "pdf:guest-champion:reinhold:2026-11-18:00:00",
+          "category": "guest-champion",
+          "title": "Reinhold",
+          "canonicalName": "Reinhold",
+          "definitionId": "guest-champion:reinhold",
+          "allDay": false,
+          "startsAt": "2026-11-18T00:00:00.000Z"
+        },
+        "replacementId": "pdf:guest-champion:reinhold:2026-11-18:00:00",
+        "sourceUrl": "https://playshoptitans.com/fr/news/version-26-11-0-release-notes",
+        "assertionKey": "king-guest-champion",
+        "reason": "confirmed-official-announcement-over-sheet-forecast"
+      },
+      {
+        "prediction": {
+          "id": "pdf:dragon-invasion:dragon-invasion:2026-11-19:15:00",
+          "category": "dragon-invasion",
+          "title": "Dragon Invasion",
+          "canonicalName": "Dragon Invasion",
+          "definitionId": "dragon-invasion:dragon-invasion",
+          "allDay": false,
+          "startsAt": "2026-11-19T15:00:00.000Z"
+        },
+        "replacementId": "pdf:dragon-invasion:dragon-invasion:2026-11-19:15:00",
+        "sourceUrl": "https://playshoptitans.com/fr/news/version-26-11-0-release-notes",
+        "assertionKey": "dragon-invasion",
+        "reason": "confirmed-official-announcement-over-sheet-forecast"
+      }
+    ],
+    "conflicts": [],
+    "runtimeLimits": [
+      "pharoway-caravan:date-only-range-not-supported-by-schema-v1",
+      "tower-of-titans:date-only-range-not-supported-by-schema-v1",
+      "king-guest-champion:date-only-range-not-supported-by-schema-v1",
+      "kings-caprice:date-only-range-not-supported-by-schema-v1",
+      "dragon-invasion:date-only-range-not-supported-by-schema-v1",
+      "generic-category-without-dedicated-icon"
+    ],
+    "automaticPublication": "blocked-pending-runtime-review"
   }
 }

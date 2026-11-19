@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T23:09:06.116Z",
+  "updatedAt": "2026-11-19T10:34:19.000Z",
   "timezone": "UTC",
   "coverage": {
     "from": "2026-09-01",
@@ -6340,6 +6340,33 @@
       "durationDays": 2
     },
     {
+      "id": "official:kings-caprice:2026-11-11",
+      "category": "kings-caprice",
+      "title": "King's Caprice",
+      "canonicalName": "King's Caprice",
+      "definitionId": "kings-caprice:kings-caprice",
+      "allDay": true,
+      "date": "2026-11-11"
+    },
+    {
+      "id": "official:pharoway-caravan:2026-11-05",
+      "category": "unknown",
+      "title": "Pharoway Caravan",
+      "canonicalName": "Pharoway Caravan",
+      "definitionId": "unknown:pharoway-caravan",
+      "allDay": true,
+      "date": "2026-11-05"
+    },
+    {
+      "id": "official:tower-of-titans:2026-11-05",
+      "category": "tower-of-titans",
+      "title": "Tower of Titans",
+      "canonicalName": "Tower of Titans",
+      "definitionId": "tower-of-titans:tower-of-titans",
+      "allDay": true,
+      "date": "2026-11-05"
+    },
+    {
       "id": "pdf:boss:avatar:2026-11-20:16:00",
       "category": "boss",
       "title": "Avatar",
@@ -9306,8 +9333,8 @@
       "title": "Dragon Invasion",
       "canonicalName": "Dragon Invasion",
       "definitionId": "dragon-invasion:dragon-invasion",
-      "allDay": false,
-      "startsAt": "2026-11-19T15:00:00.000Z"
+      "allDay": true,
+      "date": "2026-11-20"
     },
     {
       "id": "pdf:dragon-invasion:dragon-invasion:2026-12-17:15:00",
@@ -9468,8 +9495,8 @@
       "title": "Reinhold",
       "canonicalName": "Reinhold",
       "definitionId": "guest-champion:reinhold",
-      "allDay": false,
-      "startsAt": "2026-11-18T00:00:00.000Z"
+      "allDay": true,
+      "date": "2026-11-09"
     },
     {
       "id": "pdf:guest-champion:reinhold:2026-12-14:00:00",
@@ -9514,7 +9541,9 @@
       "canonicalName": "Lost City of Gold",
       "definitionId": "lost-city-of-gold:lost-city-of-gold",
       "allDay": false,
-      "startsAt": "2026-11-27T15:00:00.000Z"
+      "startsAt": "2026-11-27T15:00:00.000Z",
+      "durationDays": 4,
+      "endsAt": "2026-12-01T15:00:00.000Z"
     },
     {
       "id": "pdf:modifier-24-hour:24-hour-modifier-event:2026-11-18:15:00",
