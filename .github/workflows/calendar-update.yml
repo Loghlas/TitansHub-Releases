@@ -1,0 +1,59 @@
+name: Shop Titans calendar simulation
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: shop-titans-calendar-simulation
+  cancel-in-progress: false
+
+jobs:
+  simulate:
+    if: github.repository == 'Loghlas/TitansHub-Releases' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Install locked Node dependencies
+        run: npm ci --prefix tools/calendar --ignore-scripts --no-audit --no-fund
+      - name: Install locked Python dependencies
+        run: python -m pip install --require-hashes --only-binary=:all: -r tools/calendar/calendar_pdf/requirements.txt
+      - name: Test calendar and official assertions
+        run: npm test --prefix tools/calendar
+      - name: Test graphical PDF extraction
+        run: python -m unittest discover -s tools/calendar/calendar_pdf -p 'test_*.py' -v
+      - name: Download PDF and simulate merge (publication disabled)
+        run: node tools/calendar/automation/simulate.mjs --out review
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Record failure before simulation
+        if: failure()
+        shell: bash
+        run: |
+          mkdir -p review
+          test -f review/failure.json || printf '%s\n' '{"status":"refused","publication":"DISABLED","message":"A workflow step failed; inspect its log."}' > review/failure.json
+          printf '\nPublication: **DÉSACTIVÉE — simulation only**\n' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: calendar-simulation-review
+          path: |
+            review/*.json
+            review/*.md
+          retention-days: 14
+          if-no-files-found: error

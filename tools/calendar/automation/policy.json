@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "minimumBossesPerDay": 4,
+  "minimumChampionsPerDay": 3,
+  "bootstrapAnchor": {
+    "before": "2026-11-18",
+    "count": 702,
+    "sha256": "3730a08f032c133f0eb204a026043c1f249d332867993687809bfc512b5bf6d6"
+  }
+}

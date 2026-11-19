@@ -1,0 +1,13 @@
+# Shop Titans calendar — simulation only
+
+Weekly Monday 05:17 UTC (06:17 Paris in winter, 07:17 in summer), plus manual **Run workflow** on main. GitHub-hosted Ubuntu 24.04, Node 24, Python 3.12. GitHub actions pinned to verified commit hashes; npm lockfile and Linux Python wheel hashes pin dependencies.
+
+The workflow reads the public calendar and ledger at one captured commit, downloads the full Google Sheets PDF anonymously, extracts recognized graphical placements, applies the ledger's reviewed official assertions before merging, and produces JSON/Markdown review artifacts and a GitHub job summary. No PDF or images are uploaded. Artifacts expire after 14 days.
+
+**Publication is disabled by construction.** Only contents: read; checkout does not persist credentials; no publishing job, write API client, push command, publication dispatch input or activation variable. The GitHub API client refuses all methods except GET before any request. No Google personal account, PAT, TitansHub secret or signing material is used. GITHUB_TOKEN is only sent to api.github.com, never to the Google PDF endpoint. Enabling publication requires a separate reviewed code change and explicit authorization; setting repository variables cannot enable it.
+
+The initial reviewed base has 1,068 events, with a 702-event historical anchor. Official November dates (Dragon November 20, Reinhold November 9) and exclusions are loaded from calendar-state.json and retained unchanged. Original event IDs and the historical anchor are checked. Source gaps remain incomplete; missing PDF occurrences are retained and conflicts refuse the simulation. Official date-only periods remain documented in the ledger; simulation does not invent times or all-day semantics. The generic Caravan category and runtime date-range limitations remain unchanged.
+
+Run locally with `npm ci --prefix tools/calendar --ignore-scripts`, install the locked Python dependencies on Linux/Python 3.12, then `node tools/calendar/automation/simulate.mjs --out review`. Optional `--base-snapshot` and `--pdf` support offline review. No publish mode exists. A refused run must be reviewed, never used as a publishable artifact. Source format drift and community reuse notices remain explicit in reports. Schedule timing may be delayed by GitHub.
+
+The original broad preparation ZIP was not installed: it predated the resolved assertions and included publication machinery. This package contains only standalone calendar tools, schema validation exported from TitansHub 1.10.3, synthetic tests and this documentation; no React/Tauri application or database.

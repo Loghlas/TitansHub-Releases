@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "mode": "simulation-only",
+  "files": {
+    ".github/workflows/calendar-update.yml": "4a9c61acfc40920ebf32a6282dd3b4feeafe20447e80e974e51468dbcd72d7a3",
+    "tools/calendar/automation/core.mjs": "079d415aae293a01c519303452f369bd5a7a65ca528f29a26373922c40c84d4d",
+    "tools/calendar/automation/network.mjs": "7086808d3f7e435f8d8ef6e2068bcc773ef49b186aac8e28ff19152366fbb012",
+    "tools/calendar/automation/official-assertions.mjs": "c641055d6096a4203365485a899eb06c8896a9974f346042b928a09657fa9c73",
+    "tools/calendar/automation/official-november-2026.json": "299f4ff057ca985360d8bc68bc8614e6a6f138fc5077f3df72be4dfabb3ba582",
+    "tools/calendar/automation/official.mjs": "8a96d7949da0c0eb954fb408275f890dc90bc570ac76aab0df6586f405d5e63f",
+    "tools/calendar/automation/official.test.mjs": "19e45a703a41c81d6886350ca9b93f7c05feff376a6dde889debe2c246e52110",
+    "tools/calendar/automation/policy.json": "25e84719bfa5521ce055e95c4cd83dfbca8ee2adb34cbe8b4c351034d72d3bd4",
+    "tools/calendar/automation/simulate.mjs": "e73827f76aed168dd173f59eec989b5ef1425d50d74b4f02aa8895ec1643a6e9",
+    "tools/calendar/automation/simulation.test.mjs": "85b9f876972b919e381c61799c62115681b695ca2029e43d2689e61423d928b2",
+    "tools/calendar/automation/test.mjs": "0383e629fe0892430e9467a4ce72f450146e16b10867a6f817ab7ba8610f3503",
+    "tools/calendar/calendar-pdf-candidate.mjs": "8080f9027b26e689aff83c4318ec5f9b57789889fc33b74c5e3c1867d6295db2",
+    "tools/calendar/calendar-schema.mjs": "af81db7cec05900f411e9f9ebc32a537d05a21625081a52c163c5a7f70f46f5f",
+    "tools/calendar/calendar_pdf/extract.py": "25d7896b3e1a846d1a767cefaccd60eeb9578b9e57bb779d27843139cd8ede5a",
+    "tools/calendar/calendar_pdf/profile.json": "3d180b2a721a84e001be29f39b8a41963fba6add43eb5af5b06b3f945dc776cb",
+    "tools/calendar/calendar_pdf/requirements.txt": "b44192380e7848779b8b87ea160baf3e453ac29712505e30082da356a5ddacd1",
+    "tools/calendar/calendar_pdf/test_extract.py": "67d53217b59e10cf8ad6294bb852c40898500bfa5be77dfe934c6a9b2b0d20ad",
+    "tools/calendar/date-validation.mjs": "9764d5fbfcc72fce1d645d76c3358116c3d25858ed8ac3b49eb6646b7e63d8db",
+    "tools/calendar/package-lock.json": "b7e6a7ca9bf32a75688277818e736323b1e27500612228d1cb2853ed51a6b300",
+    "tools/calendar/package.json": "c27cba97bffc9780ef5242c446c90c2c4003c6a50c64e70b0841cd4f39fb5300",
+    "tools/calendar/README.md": "74514baeddc00f4613c76593f353ddc5d5f7de67426322c046e608d25b5482fd"
+  }
+}

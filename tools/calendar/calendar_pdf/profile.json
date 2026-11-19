@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/1T9mvInbrzdzjLstWUv4JjHoTu1rUW49Q6XWvJB9ZMdM/edit?gid=578746201",
+  "names": {
+    "Troublin Chief": {
+      "category": "boss",
+      "definitionId": "boss:troublin-chief"
+    },
+    "Yeti King": {
+      "category": "boss",
+      "definitionId": "boss:yeti-king"
+    },
+    "Toadwitch": {
+      "category": "boss",
+      "definitionId": "boss:toadwitch"
+    },
+    "Mushgoon": {
+      "category": "boss",
+      "definitionId": "boss:mushgoon"
+    },
+    "Cyclops Lord": {
+      "category": "boss",
+      "definitionId": "boss:cyclops-lord"
+    },
+    "Greater Anubis": {
+      "category": "boss",
+      "definitionId": "boss:greater-anubis"
+    },
+    "Elder Crushtacean": {
+      "category": "boss",
+      "definitionId": "boss:elder-crushtacean"
+    },
+    "Void Creature": {
+      "category": "boss",
+      "definitionId": "boss:void-creature"
+    },
+    "Tyrant King": {
+      "category": "boss",
+      "definitionId": "boss:tyrant-king"
+    },
+    "Avatar": {
+      "category": "boss",
+      "definitionId": "boss:avatar"
+    },
+    "Mermaid Queen": {
+      "category": "boss",
+      "definitionId": "boss:mermaid-queen"
+    },
+    "Harpy Matriarch": {
+      "category": "boss",
+      "definitionId": "boss:harpy-matriarch"
+    },
+    "Tyrannosaurus Rex": {
+      "category": "boss",
+      "definitionId": "boss:tyrannosaurus-rex"
+    },
+    "Hemma": {
+      "category": "champion",
+      "definitionId": "champion:hemma"
+    },
+    "Polonia": {
+      "category": "champion",
+      "definitionId": "champion:polonia"
+    },
+    "Lilu": {
+      "category": "champion",
+      "definitionId": "champion:lilu"
+    },
+    "Yami": {
+      "category": "champion",
+      "definitionId": "champion:yami"
+    },
+    "Ashley": {
+      "category": "champion",
+      "definitionId": "champion:ashley"
+    },
+    "Argon": {
+      "category": "champion",
+      "definitionId": "champion:argon"
+    },
+    "Donovan": {
+      "category": "champion",
+      "definitionId": "champion:donovan"
+    },
+    "Sia": {
+      "category": "champion",
+      "definitionId": "champion:sia"
+    },
+    "Rudo": {
+      "category": "champion",
+      "definitionId": "champion:rudo"
+    },
+    "Bjorn": {
+      "category": "champion",
+      "definitionId": "champion:bjorn"
+    },
+    "Malady": {
+      "category": "champion",
+      "definitionId": "champion:malady"
+    },
+    "Dragon Invasion": {
+      "category": "dragon-invasion",
+      "definitionId": "dragon-invasion:dragon-invasion"
+    },
+    "Gold Golem": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:gold-golem"
+    },
+    "Toad Sage": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:toad-sage"
+    },
+    "Sigil Ninja": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:sigil-ninja"
+    },
+    "Training Instructor": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:training-instructor"
+    },
+    "Moonstone Golem": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:moonstone-golem"
+    },
+    "Cyclops Merchant": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:cyclops-merchant"
+    },
+    "Scholarly Harpy": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:scholarly-harpy"
+    },
+    "Runestone Golem": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:runestone-golem"
+    },
+    "Troublin Blacksmith": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:troublin-blacksmith"
+    },
+    "Troublin Pirate": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:troublin-pirate"
+    },
+    "Ancient Crushtacean": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:ancient-crushtacean"
+    },
+    "Mushgoon Graverobber": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:mushgoon-graverobber"
+    },
+    "Cyclops General": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:cyclops-general"
+    },
+    "Anubis Champion": {
+      "category": "flash-quest",
+      "definitionId": "flash-quest:anubis-champion"
+    },
+    "Full Moon": {
+      "category": "full-moon",
+      "definitionId": "full-moon:full-moon"
+    },
+    "King's Caprice": {
+      "category": "kings-caprice",
+      "definitionId": "kings-caprice:king-s-caprice"
+    },
+    "Lost City of Gold": {
+      "category": "lost-city-of-gold",
+      "definitionId": "lost-city-of-gold:lost-city-of-gold"
+    },
+    "24 Hour Modifier Event": {
+      "category": "modifier-24-hour",
+      "definitionId": "modifier-24-hour:24-hour-modifier-event"
+    },
+    "48 Hour Modifier Event": {
+      "category": "modifier-48-hour",
+      "definitionId": "modifier-48-hour:48-hour-modifier-event"
+    },
+    "Tower Of Titans": {
+      "category": "tower-of-titans",
+      "definitionId": "tower-of-titans:tower-of-titans"
+    },
+    "Aang": {
+      "category": "guest-champion",
+      "definitionId": "guest-champion:aang"
+    },
+    "Sokka": {
+      "category": "guest-champion",
+      "definitionId": "guest-champion:sokka"
+    },
+    "Tamas": {
+      "category": "guest-champion",
+      "definitionId": "guest-champion:tamas"
+    },
+    "Reinhold": {
+      "category": "guest-champion",
+      "definitionId": "guest-champion:reinhold"
+    }
+  },
+  "startBoundaryUtc": "15:00",
+  "boundaryCategories": [
+    "lost-city-of-gold",
+    "kings-caprice",
+    "tower-of-titans",
+    "dragon-invasion",
+    "modifier-24-hour",
+    "modifier-48-hour",
+    "flash-quest"
+  ],
+  "guestReferenceNames": ["Aang", "Sokka", "Tamas", "Reinhold"]
+}

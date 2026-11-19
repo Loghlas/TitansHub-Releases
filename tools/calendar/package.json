@@ -1,0 +1,11 @@
+{
+  "name": "titanshub-calendar-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "zod": "4.4.3"
+  },
+  "scripts": {
+    "test": "node --test automation/test.mjs automation/official.test.mjs automation/simulation.test.mjs"
+  }
+}
